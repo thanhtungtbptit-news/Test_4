@@ -6,7 +6,7 @@ def my_list(lst):
     return result
 lst=[2,3,11,24,25,18,22,30]    
 print(my_list(lst))
-
+ 
 
             
 
