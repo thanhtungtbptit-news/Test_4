@@ -4,3 +4,4 @@ def tong_list(list) :
         tong += i
     return tong
 print(f"tổng list là : ",tong_list([1,2,3]))
+
